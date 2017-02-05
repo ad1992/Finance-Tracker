@@ -9,3 +9,4 @@ class CreateStocks < ActiveRecord::Migration
     end
   end
 end
+  
